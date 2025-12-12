@@ -4,7 +4,7 @@ name: "Bug Report"
 
 about: "Report a bug in the PatchFest Racer project."
 
-title: "\[BUG] "
+title: " [BUG] "
 
 labels: \["bug"]
 
