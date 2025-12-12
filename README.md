@@ -1,5 +1,3 @@
-\# PatchFest Multiplayer Racer (Boilerplate)
-
 
 
 This repository contains a minimal multiplayer racing game skeleton.
